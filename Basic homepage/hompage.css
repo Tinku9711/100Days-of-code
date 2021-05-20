@@ -1,0 +1,47 @@
+*
+
+{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	background-image: linear-gradient(rgba(0,0,0,0.5) , rgba(0,0,0,0.5))  url(tg.png);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+.tagline{
+	position: absolute;
+	width: 1200px;
+	margin-left:0; 
+	margin-top:0;
+}
+
+h1{
+	color: green;
+	font-size: 50px;
+	font-family: "Verdana", "sans-serif";
+	text-align: center;
+	margin-top: 275px;
+
+}
+
+.join{
+	margin-top: 30px;
+	margin-left: 540px;
+}
+
+.bttn{
+	border: 1px solid white;
+	padding: 10px 30px;
+	color: yellow;
+	font-family: Verdana;
+	font-size: 22px;
+}
+
+.join a:hover{
+	background-color: burlywood;
+	
+}
